@@ -47,7 +47,7 @@ The employee data is from 1985 to 2022. The Slicers and Report connections tools
 - Though the employees are highly satisfied with their jobs in the organization, they seem to lack work-life balance. The human resource department should look into the causation for the 
   efficient productivity of the company. 
 
-- The third quarter of the year has a higher termination rate and a lower hiring rate. The termination rate is mostly in the month of July.
+- The third quarter of the year has a higher termination rate and a lower hiring rate. The termination rate is mostly in July.
 
 - The number of employees who left the organization in July resulted in a minimum total salary payment. The organization paid the highest salary in October and November.
 
@@ -57,9 +57,14 @@ The employee data is from 1985 to 2022. The Slicers and Report connections tools
 
   ## Recommendation
 
-- The organization should adopt gender balance, equality and fairness.
-- To improve productivity, the HR should organize webinars on the importance of work-life balance and implement some of the feedback from the questionnaire conducted on the causation 
-    of low work-life balance. 
+- The organization should adopt gender balance, equality, and fairness.
+- To improve productivity, HR should organize webinars on the importance of work-life balance and implement some of the feedback from the questionnaire conducted on the causation 
+    of low work-life balance.
+
+
+  ![](Gra_cias.jpg)
+
+  
   
 
 
